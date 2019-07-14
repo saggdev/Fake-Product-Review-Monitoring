@@ -39,7 +39,7 @@ Clearly consumers value the feedback given by other users as do the companies th
 <h2>DIAGRAMETRIC ILLUSTRATION :</h2> 
 <img width="474" alt="Untitled" src="https://user-images.githubusercontent.com/52876676/61187524-fad04c80-a68f-11e9-925a-024ae7ef5684.png">
 
-<h2>ADVANTAGES :<h2> 
+<h2>ADVANTAGES :</h2> 
   <small><p>&#9679; User gets genuine reviews about the product.</p>
   <p>&#9679; User can post their own review about the product.</p>
   <p>&#9679; User can spend money on valuable products.</p></small>
