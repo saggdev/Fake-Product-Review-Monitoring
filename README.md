@@ -15,3 +15,5 @@ Spam dictionary to identify the spam words in the
 reviews. In Text Mining we apply several algorithms
 and on the basis of these algorithms we get the
 specific results.
+
+#INTRODUCTION :
